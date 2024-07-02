@@ -1,0 +1,11 @@
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:367:1:sntp_retry	8	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:437:1:sntp_recv	40	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:604:1:sntp_request	32	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:649:1:sntp_init	16	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:687:1:sntp_stop	16	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:708:6:sntp_enabled	0	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:719:1:sntp_setoperatingmode	8	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:732:1:sntp_getoperatingmode	0	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:745:1:sntp_getreachability	0	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:778:1:sntp_setserver	0	static
+../Middlewares/Third_Party/LwIP/src/apps/sntp/sntp.c:829:1:sntp_getserver	0	static

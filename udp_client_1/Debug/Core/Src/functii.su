@@ -1,0 +1,8 @@
+../Core/Src/functii.c:21:6:convert_rtc_to_ntp	104	static
+../Core/Src/functii.c:54:6:convert_ntp_to_rtc	96	static
+../Core/Src/functii.c:98:11:convert_ntp_to_tm	80	static
+../Core/Src/functii.c:111:6:set_alarm_from_serv	136	static
+../Core/Src/functii.c:138:6:udp_client_connect	24	static
+../Core/Src/functii.c:167:6:udp_client_send	32	static
+../Core/Src/functii.c:189:6:udp_receive_callback	48	static
+../Core/Src/functii.c:237:6:HAL_RTC_AlarmAEventCallback	40	static
